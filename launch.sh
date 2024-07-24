@@ -1,0 +1,1 @@
+python ./chat_relay.py --vits-model models/vits-coqui-en-vctk/model.onnx --vits-tokens models/vits-coqui-en-vctk/tokens.txt --vits-data-dir models/vits-coqui-en-vctk/espeak-ng-data --sid 7
